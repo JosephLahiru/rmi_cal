@@ -1,3 +1,5 @@
+package with_registry_library;
+
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 

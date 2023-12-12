@@ -1,4 +1,4 @@
-package with_registry_library;
+package without_registry_library;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
